@@ -1,3 +1,11 @@
+
+
+#Files to ignore:
+
+L1_Working.py
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
